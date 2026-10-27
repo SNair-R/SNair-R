@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f1f2e"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="250" rx="14" fill="url(#bg)"/>
+  <!-- PCB traces, right side -->
+  <g fill="none" stroke="url(#trace)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M720 36 H850 L880 66 H950"/>
+    <path d="M800 92 H880 L905 117 H960"/>
+    <path d="M790 172 H870 L895 147 H945"/>
+    <path d="M730 214 H860 L885 189 H955"/>
+  </g>
+  <g fill="#2dd4bf"><circle cx="950" cy="66" r="5"/><circle cx="960" cy="117" r="5"/><circle cx="945" cy="147" r="5"/><circle cx="955" cy="189" r="5"/></g>
+  <g fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0.8"><circle cx="950" cy="66" r="9"/><circle cx="960" cy="117" r="9"/><circle cx="945" cy="147" r="9"/><circle cx="955" cy="189" r="9"/></g>
+  <!-- left accent bar -->
+  <rect x="48" y="62" width="5" height="126" rx="2.5" fill="#2dd4bf"/>
+  <text x="74" y="112" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#f1f5f9">Sidharth Nair</text>
+  <text x="76" y="148" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1">Embedded firmware · Electrical Engineering @ University of Houston</text>
+  <text x="76" y="184" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" fill="#2dd4bf">C/C++ · CAN 2.0B · Teensy 4.1 · RP2040</text>
+</svg>
