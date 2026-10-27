@@ -8,7 +8,7 @@
   <a href="https://github.com/SNair-R/SNair-R/blob/main/Sidharth_Nair_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2dd4bf?style=for-the-badge&logo=readthedocs&logoColor=0f1f2e" alt="Resume"></a>
 </p>
 
-I'm a BSEE student at the University of Houston (GPA 3.93, expected May 2028) who writes embedded firmware in C/C++, from rover fault handling over CAN to small Pico builds that drive real displays, sensors and buzzers.
+I'm a BSEE student at the University of Houston (GPA 3.93, expected graduation May 2028) who writes embedded firmware in C/C++, from rover fault handling over CAN to small Pico builds that drive real displays, sensors and buzzers.
 
 **Looking for Summer 2027 internships** in embedded, hardware, or controls (Houston or remote).
 
