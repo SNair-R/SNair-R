@@ -32,7 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Hardware & protocols:** I2C · CAN 2.0B · PWM · ADC · GPIO · Teensy 4.1 · Jetson · Raspberry Pi Pico (RP2040, C SDK)
 **Tools:** Git · GCC · Make · CMake · VS Code · Fusion 360 · schematic/PCB design (learning)
